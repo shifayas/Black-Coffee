@@ -1,0 +1,46 @@
+.nav1{
+    background-color: rgb(186, 134, 65);
+    padding-bottom: 100px;
+}
+.hero {
+      background-image: url('cup-coffee-with-smoke-coffee-beans-old-wooden-background_126277-183.avif');
+      background-size: cover;
+      background-position: center;
+      height: 400px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: white;
+    }
+    .hero h1 {
+      font-size: 3rem;
+      letter-spacing: 0.3rem;
+    }
+    .category-img, .milkshake-img {
+      width: 100%;
+      border-radius: 10px;
+      height: 250px;
+    }
+    .milkshake-card {
+      background-color: #2e1f17;
+      border: none;
+      border-radius: 15px;
+      overflow: hidden;
+      padding: 15px;
+    }
+    footer {
+      background-color: #2e1f17;
+      color: #ccc;
+      padding:40px 15px;
+    }
+    footer h6 {
+      color: #fff;
+    }
+    .line{
+        width: 100%;
+        height: 2px;
+        background-color: white;
+        
+    }
+  
